@@ -1,5 +1,6 @@
 .app-heading {
     background-color: black;
+    width: 100%;
 }
 
 .main-heading {
@@ -26,7 +27,14 @@
 
 
 .nopadding {
-    padding: 0 !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    padding-left: 2px !important;
+    padding-right: 2px !important;
     margin: 0 !important;
  }
 
+ html body {
+    background-color: rgba(0,0,0,1.00);
+
+}
