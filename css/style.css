@@ -20,3 +20,13 @@
     padding: 0 15px;
 }
 
+.icon {
+    padding: 1px, 1px, 1px, 1px !important;
+}
+
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+ }
+
