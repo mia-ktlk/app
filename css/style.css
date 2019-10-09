@@ -1,0 +1,16 @@
+.app-heading {
+    background-color: black;
+}
+
+.main-heading {
+    color: WHITE;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-transform: capitalize;
+}
+
+.h1 {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-transform: capitalize;
+}
